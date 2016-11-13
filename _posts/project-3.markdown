@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 
+date: 2016-05-01
 img: circus.png
 alt: image-alt
 project-date: Spring 2016
