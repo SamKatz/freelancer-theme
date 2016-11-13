@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Spring 2016
 client: Artificial Intelligence Class Assignment
 category: AI
-description: Placeholder
+description: Placeholder.
 ---
