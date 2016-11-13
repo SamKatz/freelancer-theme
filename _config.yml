@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: Freelancer
 email: your-email@domain.com
 url: https://example.github.io
@@ -24,10 +24,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 2D6927
+  primary-rgb: "45,105,39"
+  secondary: 1A5114 #FD6E8A
+  secondary-dark: 093404 #A2122F
 
 # Footer settings
 footer:
@@ -51,8 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 468 Homecrest Street
+  - line: Corpus Christi, TX 78412
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
