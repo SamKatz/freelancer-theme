@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2016-10-1
-img: cabin.png
+img: gorgnak2.png
 alt: image-alt
 project-date: October 2016
 client: Self

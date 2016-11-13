@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-10-1
-img: cake.png
+img: functiongrapher2.png
 alt: image-alt
 project-date: Fall 2014
 client: Former Calculus Instructor
