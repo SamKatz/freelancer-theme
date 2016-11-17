@@ -45,8 +45,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 468 Homecrest Street
-  - line: Corpus Christi, TX 78412
+  - line: Corpus Christi, Texas, during the Summer
+  - line: University of Texas at Dallas during the academic year
 
 # Credits content
 credits: 'This website was created using a template licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a> that can be found <a href="https://github.com/jeromelachaud/freelancer-theme">here</a>.'
