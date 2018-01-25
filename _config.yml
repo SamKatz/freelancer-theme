@@ -5,8 +5,8 @@ url: https://samkatz.github.io
 description: "This is the online portfolio of Samuel Katz"
 skills: "Computer Science Student - Aspiring Game Designer"
 meta_author: Katz Samuel
-resume: Resume (9/8/17)
-resumeurl: https://drive.google.com/file/d/0B0SYXy6axNB7Nkk1YndPb3JIa28/view?usp=sharing
+resume: Resume (1/11/17)
+resumeurl: https://drive.google.com/open?id=146CQfmwrEQ_rCQVtMCRHjDVg_mwlj2wN
 
 # Google webmaster tools
 google_verify:
@@ -44,6 +44,8 @@ social:
     url: https://www.facebook.com/sammy.katz.37
   - title: github
     url: http://github.com/SamKatz
+  - title: linkedin
+    url: https://www.linkedin.com/in/samuel-katz-62439a14b/
 
 # Postal address (add as many lines as necessary)
 address:
