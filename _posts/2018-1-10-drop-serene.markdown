@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 2018-1-24
 img: drop-serene.jpg
-alt: image-alt
+alt: Drop Serene
 project-date: Fall 2017
 client: UTD Game Production Lab
 category: Game Development

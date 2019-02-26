@@ -3,7 +3,7 @@ layout: default
 modal-id: 5
 date: 2018-1-24
 img: ship-to-mars.PNG
-alt: image-alt
+alt: Ship to Mars
 project-date: Ongoing
 client: Perot Museum of Nature and Science
 category: Game Development
