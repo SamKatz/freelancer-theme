@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 date: 2016-10-1
 img: grognak2.PNG
+detailimg: grognak.gif
 alt: Dungeon Crawler Prototype
 project-date: October 2016
 client: Self

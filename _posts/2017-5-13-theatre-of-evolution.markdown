@@ -3,6 +3,7 @@ layout: default
 modal-id: 4
 date: 2017-05-01
 img: TheatreOfEvolution.jpg
+detailimg: TheatreOfEvolution.jpg
 alt: Theatre of Evolution
 project-date: Spring 2017
 client: UTD Game Production Lab

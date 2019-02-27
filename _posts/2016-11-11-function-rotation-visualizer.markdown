@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 date: 2014-10-1
 img: functiongrapher2.PNG
+detailimg: functiongrapher2.PNG
 alt: 3D Function Grapher
 project-date: Fall 2014
 client: Former Calculus Instructor
