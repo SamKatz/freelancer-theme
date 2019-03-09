@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 1
-date: 2016-10-1
 img: grognak2.PNG
 detailimg: grognak.gif
 alt: Dungeon Crawler Prototype

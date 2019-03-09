@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 3
-date: 2016-05-01
 img: Capture-the-flag2.PNG
 detailimg: Capture-the-flag2.PNG
 alt: Capture the Flag Agent

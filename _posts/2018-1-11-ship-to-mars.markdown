@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 5
-date: 2018-1-24
 img: ship-to-mars.PNG
 detailimg: ship-to-mars.gif
 alt: Ship to Mars
